@@ -1,7 +1,7 @@
 # Tuning-Controller-in-ROS
 Task assigned to : Siddharth Khandelwal
 
-Weekly Plan:
+Weekly Plan:  
 Week 1-2 : Learning ROS, Gazebo and OpenCV  
 
 Week 3-4 : Tune the line follower branch programmatically
